@@ -1,0 +1,2 @@
+# Kaleidoscope
+For Coursera purpose
